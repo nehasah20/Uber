@@ -1,0 +1,14 @@
+{
+  "name": "Uber",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "angular-mass-autocomplete": "^0.2.3",
+    "ejs": "*",
+    "express": "3.0.6",
+    "mongodb-autoincrement": "^1.0.0"
+  }
+}
